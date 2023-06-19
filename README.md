@@ -1,6 +1,6 @@
 #Cats
 
-Web development intensive course (frontendblock)
+Intensive Web Development Course (frontendblock)
 
 - HTML;
 - CSS;
