@@ -2,6 +2,6 @@
 
 Web development intensive course (frontendblock)
 
-HTML
-CSS
-JS (arrays)
+- HTML;
+- CSS;
+- JS (arrays).
